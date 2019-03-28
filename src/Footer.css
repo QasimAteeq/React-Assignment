@@ -1,0 +1,9 @@
+#footer{
+    text-align: center;
+    background-color: #282c34;
+    height: 200px;
+    color: aliceblue;
+}
+#footer p{
+    padding-top: 100px;;
+}
